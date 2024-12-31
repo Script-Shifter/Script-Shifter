@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dishank sahu</h1>
-<h3 align="center">A passionate developer focused on building intuitive and responsive web applications. I love working with HTML, CSS, JavaScript, and exploring new technologies. Currently, I'm honing my skills in SQL and databases while working on exciting projects like my to-do list app and personal portfolio. <br> 💻 I'm always open to collaborating on interesting projects and learning new things! <br> 🔭 Check out my repositories for code, tutorials, and more.</h3>
+<h3 align="center">🚀 A passionate developer focused on building intuitive and responsive web applications.</h3>  
+<h4 align="center">💻 Skilled in HTML, CSS, JavaScript, and exploring new technologies.</h4>  
+<h4 align="center">📚 Currently honing my skills in SQL and databases.</h4>  
+<h4 align="center">✨ Working on exciting projects like a to-do list app and personal portfolio.</h4>  
+<h4 align="center">🤝 Open to collaborating on interesting projects and learning new things!</h4>  
+<h4 align="center">🔭 Check out my repositories for code, tutorials, and more.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=script-shifter&label=Profile%20views&color=0e75b6&style=flat" alt="script-shifter" /> </p>
 
