@@ -1,4 +1,5 @@
 <div style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 50px; border-radius: 25px; max-width: 950px; margin: auto; color: white; font-family: 'Roboto', sans-serif; text-align: center; box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);">
+  <div style="text-align: center;">
   <!-- Header Section -->
   <h1 style="font-size: 3.5em; font-weight: 700; color: #f8f9fa; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">Hi 👋, I'm Dishank Sahu</h1>
   <h3 style="font-size: 1.8em; font-weight: 500; color: #f8f9fa;">🚀 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
@@ -8,6 +9,7 @@
   </p>
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 10px;" />
+</div>
 
   <!-- About Me Section -->
   <section style="background-color: rgba(255, 255, 255, 0.1); padding: 25px; border-radius: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
