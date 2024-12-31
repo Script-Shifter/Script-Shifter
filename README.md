@@ -1,13 +1,15 @@
 <div style="background: linear-gradient(135deg, #00c6ff, #0072ff); padding: 50px; border-radius: 20px; max-width: 950px; margin: auto; color: white; font-family: 'Roboto', sans-serif; text-align: center;">
+  <!-- Header Section -->
   <h1 style="font-size: 3em; font-weight: 700; color: #f8f9fa;">Hi 👋, I'm Dishank Sahu</h1>
   <h3 style="font-size: 1.6em; font-weight: 500; color: #f8f9fa;">🚀 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
   <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG" />
   </p>
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- About Me Section -->
   <section style="background-color: rgba(255, 255, 255, 0.1); padding: 25px; border-radius: 15px;">
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">🚀 About Me</h3>
     <ul style="list-style: none; padding-left: 0; font-size: 1.2em; color: #f8f9fa; text-align: left; margin-left: 20px;">
@@ -21,6 +23,7 @@
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- Connect with Me Section -->
   <section>
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">🌐 Connect with Me</h3>
     <div style="display: flex; justify-content: center; gap: 15px;">
@@ -44,6 +47,7 @@
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- Tools & Technologies Section -->
   <section style="background-color: rgba(255, 255, 255, 0.1); padding: 25px; border-radius: 15px;">
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">🛠️ Tools & Technologies</h3>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
@@ -62,6 +66,7 @@
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- Achievements Section -->
   <section>
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">🏆 Achievements</h3>
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -71,6 +76,7 @@
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- GitHub Stats Section -->
   <section>
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">📊 GitHub Stats</h3>
     <div>
@@ -82,6 +88,7 @@
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- Contribution Graph Section -->
   <section>
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">📈 Contribution Graph</h3>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=script-shifter&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" />
@@ -89,6 +96,7 @@
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
 
+  <!-- Useful Links Section -->
   <section>
     <h3 style="font-size: 2em; font-weight: 600; color: #f8f9fa;">🔗 Useful Links</h3>
     <div style="display: flex; justify-content: center; gap: 15px;">
