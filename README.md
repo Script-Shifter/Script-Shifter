@@ -73,7 +73,7 @@
 
 ### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=script-shifter&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=script-shifter&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph">
 </p>
 
 ---
