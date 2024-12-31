@@ -12,7 +12,7 @@
 - 🌱 **Currently learning**: **React JS, Spring, Hibernate, and Collection Framework**
 - 🤝 **Looking for help with**: **Number Plate Detection System**
 - 💬 **Ask me about**: Core Java, JavaScript, HTML, CSS, and C++
-- 📫 **Reach me at**: <a href="mailto:dishank.sahu02@gmail.com">dishank.sahu02@gmail.com</a>
+- 📫 **Reach me at**: [dishank.sahu02@gmail.com](mailto:dishank.sahu02@gmail.com)
 
 ---
 
@@ -21,13 +21,13 @@
   <a href="https://twitter.com/_124_lucifer" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/dishank sahu" target="_blank">
+  <a href="https://linkedin.com/in/dishank-sahu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/_123_lucifer" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.hackerrank.com/@dishank_sahu02" target="_blank">
+  <a href="https://www.hackerrank.com/dishank_sahu02" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank">
   </a>
   <a href="https://discord.gg/_123_lucifer7335" target="_blank">
@@ -56,7 +56,7 @@
 ### 🏆 Achievements:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=script-shifter&theme=onestar&margin-w=15&margin-h=15&row=2&column=3" alt="Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=script-shifter&theme=radical&margin-w=15&margin-h=15&row=2&column=3" alt="Trophies">
   </a>
 </p>
 
@@ -64,9 +64,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=script-shifter&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=script-shifter&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-shifter&theme=github-dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-shifter&theme=radical" alt="GitHub Streak">
 </p>
 
 ---
