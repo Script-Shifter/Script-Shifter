@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=0E75B6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+responsive+web+apps;Love+learning+new+technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ### 🏆 Achievements:
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=script-shifter&theme=dracula&margin-w=15&margin-h=15&row=2&column=3" alt="Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=script-shifter&theme=onestar&margin-w=15&margin-h=15&row=2&column=3" alt="Trophies">
   </a>
 </p>
 
@@ -64,14 +64,29 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=script-shifter&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=script-shifter&show_icons=true&theme=github_dark" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-shifter&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=script-shifter&theme=github-dark" alt="GitHub Streak">
 </p>
 
 ---
 
 ### 📈 Contribution Graph:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=script-shifter&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=script-shifter&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph">
+</p>
+
+---
+
+### 🔗 Useful Links:
+<p align="center">
+  <a href="https://github.com/script-shifter" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://dev.to/script-shifter" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
 </p>
