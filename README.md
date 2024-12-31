@@ -3,7 +3,7 @@
   <h3 style="font-size: 1.6em; font-weight: 500; color: #f8f9fa;">🚀 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+and+Tech+Explorer;Building+Innovative+Solutions;Always+Learning+New+Technologies!" alt="Typing SVG" />
   </p>
 
   <hr style="border: 1px solid #fff; width: 80%; margin: 30px auto; border-radius: 5px;" />
