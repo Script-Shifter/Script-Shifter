@@ -106,9 +106,6 @@
       <a href="https://portfolio-link.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
       </a>
-      <a href="https://dev.to/script-shifter" target="_blank">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-      </a>
     </div>
   </section>
 </div>
