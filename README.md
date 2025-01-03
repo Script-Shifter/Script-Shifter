@@ -103,7 +103,7 @@
       <a href="https://github.com/script-shifter" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
       </a>
-      <a href="https://portfolio-link.com" target="_blank">
+      <a href="https://portfolio-tau-nine-96.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
       </a>
     </div>
